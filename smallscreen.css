@@ -1,0 +1,11 @@
+nav , #container ,#n3{
+    flex-wrap: wrap;
+    width: 100vw;
+}
+#container{
+    height: 160vw;
+    gap: 0;
+}
+#n3{
+    height: 160vh;
+}

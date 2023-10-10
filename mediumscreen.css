@@ -1,0 +1,23 @@
+nav , #container ,#n3{
+    width: 100vw;
+
+}
+#container{
+    height: 80vh;
+    gap: 0;
+}
+#container, #n3 {
+    flex-wrap: wrap;
+}
+#n3{
+    height: 80vh;
+}
+.left{
+    width: 70vw;
+}
+.right{
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+}
